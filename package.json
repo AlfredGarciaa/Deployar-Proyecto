@@ -2,10 +2,10 @@
   "name": "parcel-jest-base",
   "version": "1.0.0",
   "description": "",
-  "default": "Funcionalidades.html",
+  "default": "index.html",
   "scripts": {
-    "start": "parcel Funcionalidades.html",
-    "build": "parcel build Funcionalidades.html",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest --watch",
     "test-once": "jest"
   },
